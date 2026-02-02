@@ -1,0 +1,20 @@
+# BANK MANAGEMENT SYSTEM 
+A simple Python based Bank Management System.
+
+ ## Features:
+- Account Creation
+- PIN based login
+- Deposit
+- Withdraw
+- Account Transfer
+- Balance Check
+- Transaction HIstory
+- Account Deletion
+
+## Technology Used:
+- Python (Application Logic)
+- MySQL (Database)
+
+## How to Run
+1. Clone the repository
+2. Run 'main.py'
