@@ -1,6 +1,7 @@
-DB_CONFIG={
-    "host": "localhost",
-    "user":"root",
-    "password":"pass",
-    "database":"bank_db"
+DB_CONFIG = {
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
 }
+
